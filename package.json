@@ -1,0 +1,25 @@
+{
+  "name": "character-catalog",
+  "version": "1.0.0",
+  "description": "Character catalog app with CLI and UI",
+  "scripts": {
+    "start:cli": "npx ts-node cli/cli.ts",
+    "build": "tsc && npm run copy-static",
+    "copy-static": "mkdir -p dist/web/src && cp web/src/index.html web/src/styles.css web/src/toy_nail.jpg dist/web/src/ && cp web/src/index.js dist/web/src/",
+    "start:server": "node dist/web/server.js",
+    "dev": "npx ts-node web/server.ts"
+  },
+  "dependencies": {
+    "axios": "^1.7.7",
+    "prompts": "^2.4.2",
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "@types/axios": "^0.14.4",
+    "@types/cors": "^2.8.17",
+    "@types/express": "^5.0.0",
+    "@types/prompts": "^2.4.9",
+    "typescript": "^4.8.4"
+  }
+}

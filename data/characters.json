@@ -1,0 +1,830 @@
+[
+  {
+    "name": "albedo",
+    "_health": 76,
+    "attackPower": 49,
+    "defense": 128,
+    "resist": 117,
+    "level": 7,
+    "rarity": 152
+  },
+  {
+    "name": "alhaitham",
+    "_health": 126,
+    "attackPower": 127,
+    "defense": 10,
+    "resist": 119,
+    "level": 3,
+    "rarity": 453
+  },
+  {
+    "name": "aloy",
+    "_health": 167,
+    "attackPower": 41,
+    "defense": 115,
+    "resist": 161,
+    "level": 4,
+    "rarity": 191
+  },
+  {
+    "name": "amber",
+    "_health": 33,
+    "attackPower": 134,
+    "defense": 146,
+    "resist": 6,
+    "level": 5,
+    "rarity": 54
+  },
+  {
+    "name": "arataki-itto",
+    "_health": 130,
+    "attackPower": 150,
+    "defense": 48,
+    "resist": 198,
+    "level": 5,
+    "rarity": 447
+  },
+  {
+    "name": "arlecchino",
+    "_health": 29,
+    "attackPower": 55,
+    "defense": 42,
+    "resist": 159,
+    "level": 8,
+    "rarity": 457
+  },
+  {
+    "name": "ayaka",
+    "_health": 113,
+    "attackPower": 126,
+    "defense": 86,
+    "resist": 216,
+    "level": 3,
+    "rarity": 497
+  },
+  {
+    "name": "ayato",
+    "_health": 129,
+    "attackPower": 192,
+    "defense": 82,
+    "resist": 208,
+    "level": 3,
+    "rarity": 367
+  },
+  {
+    "name": "baizhu",
+    "_health": 231,
+    "attackPower": 155,
+    "defense": 103,
+    "resist": 149,
+    "level": 1,
+    "rarity": 254
+  },
+  {
+    "name": "barbara",
+    "_health": 12,
+    "attackPower": 113,
+    "defense": 28,
+    "resist": 85,
+    "level": 4,
+    "rarity": 494
+  },
+  {
+    "name": "beidou",
+    "_health": 40,
+    "attackPower": 94,
+    "defense": 40,
+    "resist": 191,
+    "level": 7,
+    "rarity": 225
+  },
+  {
+    "name": "bennett",
+    "_health": 99,
+    "attackPower": 129,
+    "defense": 75,
+    "resist": 49,
+    "level": 9,
+    "rarity": 75
+  },
+  {
+    "name": "candace",
+    "_health": 175,
+    "attackPower": 62,
+    "defense": 22,
+    "resist": 88,
+    "level": 8,
+    "rarity": 261
+  },
+  {
+    "name": "charlotte",
+    "_health": 214,
+    "attackPower": 75,
+    "defense": 40,
+    "resist": 45,
+    "level": 5,
+    "rarity": 114
+  },
+  {
+    "name": "chevreuse",
+    "_health": 196,
+    "attackPower": 49,
+    "defense": 114,
+    "resist": 39,
+    "level": 2,
+    "rarity": 61
+  },
+  {
+    "name": "chiori",
+    "_health": 141,
+    "attackPower": 161,
+    "defense": 8,
+    "resist": 63,
+    "level": 10,
+    "rarity": 270
+  },
+  {
+    "name": "chongyun",
+    "_health": 78,
+    "attackPower": 191,
+    "defense": 16,
+    "resist": 105,
+    "level": 1,
+    "rarity": 357
+  },
+  {
+    "name": "clorinde",
+    "_health": 133,
+    "attackPower": 39,
+    "defense": 55,
+    "resist": 111,
+    "level": 4,
+    "rarity": 401
+  },
+  {
+    "name": "collei",
+    "_health": 58,
+    "attackPower": 30,
+    "defense": 71,
+    "resist": 130,
+    "level": 1,
+    "rarity": 309
+  },
+  {
+    "name": "cyno",
+    "_health": 209,
+    "attackPower": 159,
+    "defense": 60,
+    "resist": 44,
+    "level": 8,
+    "rarity": 172
+  },
+  {
+    "name": "dehya",
+    "_health": 219,
+    "attackPower": 45,
+    "defense": 125,
+    "resist": 128,
+    "level": 3,
+    "rarity": 286
+  },
+  {
+    "name": "diluc",
+    "_health": 155,
+    "attackPower": 82,
+    "defense": 61,
+    "resist": 61,
+    "level": 6,
+    "rarity": 484
+  },
+  {
+    "name": "diona",
+    "_health": 33,
+    "attackPower": 138,
+    "defense": 147,
+    "resist": 196,
+    "level": 8,
+    "rarity": 133
+  },
+  {
+    "name": "dori",
+    "_health": 300,
+    "attackPower": 80,
+    "defense": 114,
+    "resist": 150,
+    "level": 9,
+    "rarity": 444
+  },
+  {
+    "name": "emilie",
+    "_health": 184,
+    "attackPower": 171,
+    "defense": 117,
+    "resist": 205,
+    "level": 3,
+    "rarity": 2
+  },
+  {
+    "name": "eula",
+    "_health": 175,
+    "attackPower": 68,
+    "defense": 34,
+    "resist": 98,
+    "level": 7,
+    "rarity": 146
+  },
+  {
+    "name": "faruzan",
+    "_health": 191,
+    "attackPower": 189,
+    "defense": 59,
+    "resist": 200,
+    "level": 10,
+    "rarity": 156
+  },
+  {
+    "name": "fischl",
+    "_health": 237,
+    "attackPower": 185,
+    "defense": 113,
+    "resist": 178,
+    "level": 2,
+    "rarity": 498
+  },
+  {
+    "name": "freminet",
+    "_health": 300,
+    "attackPower": 92,
+    "defense": 131,
+    "resist": 221,
+    "level": 2,
+    "rarity": 94
+  },
+  {
+    "name": "furina",
+    "_health": 289,
+    "attackPower": 111,
+    "defense": 49,
+    "resist": 18,
+    "level": 10,
+    "rarity": 334
+  },
+  {
+    "name": "gaming",
+    "_health": 254,
+    "attackPower": 80,
+    "defense": 83,
+    "resist": 213,
+    "level": 7,
+    "rarity": 248
+  },
+  {
+    "name": "ganyu",
+    "_health": 69,
+    "attackPower": 54,
+    "defense": 140,
+    "resist": 70,
+    "level": 3,
+    "rarity": 302
+  },
+  {
+    "name": "gorou",
+    "_health": 142,
+    "attackPower": 185,
+    "defense": 39,
+    "resist": 142,
+    "level": 6,
+    "rarity": 478
+  },
+  {
+    "name": "hu-tao",
+    "_health": 74,
+    "attackPower": 87,
+    "defense": 79,
+    "resist": 63,
+    "level": 7,
+    "rarity": 76
+  },
+  {
+    "name": "jean",
+    "_health": 220,
+    "attackPower": 99,
+    "defense": 51,
+    "resist": 199,
+    "level": 3,
+    "rarity": 212
+  },
+  {
+    "name": "kachina",
+    "_health": 184,
+    "attackPower": 56,
+    "defense": 121,
+    "resist": 83,
+    "level": 5,
+    "rarity": 398
+  },
+  {
+    "name": "kaeya",
+    "_health": 168,
+    "attackPower": 95,
+    "defense": 9,
+    "resist": 125,
+    "level": 10,
+    "rarity": 163
+  },
+  {
+    "name": "kaveh",
+    "_health": 78,
+    "attackPower": 117,
+    "defense": 5,
+    "resist": 221,
+    "level": 9,
+    "rarity": 196
+  },
+  {
+    "name": "kazuha",
+    "_health": 105,
+    "attackPower": 35,
+    "defense": 28,
+    "resist": 94,
+    "level": 2,
+    "rarity": 68
+  },
+  {
+    "name": "keqing",
+    "_health": 76,
+    "attackPower": 73,
+    "defense": 135,
+    "resist": 78,
+    "level": 9,
+    "rarity": 286
+  },
+  {
+    "name": "kinich",
+    "_health": 249,
+    "attackPower": 95,
+    "defense": 99,
+    "resist": 84,
+    "level": 10,
+    "rarity": 154
+  },
+  {
+    "name": "kirara",
+    "_health": 87,
+    "attackPower": 47,
+    "defense": 116,
+    "resist": 207,
+    "level": 4,
+    "rarity": 305
+  },
+  {
+    "name": "klee",
+    "_health": 154,
+    "attackPower": 78,
+    "defense": 138,
+    "resist": 191,
+    "level": 3,
+    "rarity": 83
+  },
+  {
+    "name": "kokomi",
+    "_health": 128,
+    "attackPower": 24,
+    "defense": 121,
+    "resist": 208,
+    "level": 8,
+    "rarity": 315
+  },
+  {
+    "name": "kuki-shinobu",
+    "_health": 67,
+    "attackPower": 127,
+    "defense": 41,
+    "resist": 23,
+    "level": 8,
+    "rarity": 243
+  },
+  {
+    "name": "layla",
+    "_health": 232,
+    "attackPower": 17,
+    "defense": 101,
+    "resist": 221,
+    "level": 7,
+    "rarity": 296
+  },
+  {
+    "name": "lisa",
+    "_health": 195,
+    "attackPower": 139,
+    "defense": 92,
+    "resist": 7,
+    "level": 5,
+    "rarity": 62
+  },
+  {
+    "name": "lynette",
+    "_health": 128,
+    "attackPower": 42,
+    "defense": 34,
+    "resist": 114,
+    "level": 7,
+    "rarity": 28
+  },
+  {
+    "name": "lyney",
+    "_health": 7,
+    "attackPower": 100,
+    "defense": 148,
+    "resist": 172,
+    "level": 9,
+    "rarity": 188
+  },
+  {
+    "name": "mika",
+    "_health": 54,
+    "attackPower": 195,
+    "defense": 44,
+    "resist": 137,
+    "level": 6,
+    "rarity": 192
+  },
+  {
+    "name": "mona",
+    "_health": 52,
+    "attackPower": 84,
+    "defense": 10,
+    "resist": 92,
+    "level": 5,
+    "rarity": 48
+  },
+  {
+    "name": "mualani",
+    "_health": 116,
+    "attackPower": 102,
+    "defense": 115,
+    "resist": 2,
+    "level": 6,
+    "rarity": 234
+  },
+  {
+    "name": "nahida",
+    "_health": 147,
+    "attackPower": 32,
+    "defense": 105,
+    "resist": 80,
+    "level": 6,
+    "rarity": 45
+  },
+  {
+    "name": "navia",
+    "_health": 178,
+    "attackPower": 33,
+    "defense": 142,
+    "resist": 140,
+    "level": 5,
+    "rarity": 297
+  },
+  {
+    "name": "neuvillette",
+    "_health": 296,
+    "attackPower": 50,
+    "defense": 55,
+    "resist": 206,
+    "level": 3,
+    "rarity": 85
+  },
+  {
+    "name": "nilou",
+    "_health": 71,
+    "attackPower": 93,
+    "defense": 5,
+    "resist": 41,
+    "level": 2,
+    "rarity": 351
+  },
+  {
+    "name": "ningguang",
+    "_health": 261,
+    "attackPower": 3,
+    "defense": 100,
+    "resist": 55,
+    "level": 10,
+    "rarity": 73
+  },
+  {
+    "name": "noelle",
+    "_health": 241,
+    "attackPower": 86,
+    "defense": 138,
+    "resist": 4,
+    "level": 1,
+    "rarity": 276
+  },
+  {
+    "name": "qiqi",
+    "_health": 42,
+    "attackPower": 122,
+    "defense": 17,
+    "resist": 74,
+    "level": 2,
+    "rarity": 416
+  },
+  {
+    "name": "raiden",
+    "_health": 2,
+    "attackPower": 184,
+    "defense": 60,
+    "resist": 101,
+    "level": 4,
+    "rarity": 361
+  },
+  {
+    "name": "razor",
+    "_health": 21,
+    "attackPower": 96,
+    "defense": 11,
+    "resist": 61,
+    "level": 7,
+    "rarity": 463
+  },
+  {
+    "name": "rosaria",
+    "_health": 78,
+    "attackPower": 178,
+    "defense": 122,
+    "resist": 1,
+    "level": 6,
+    "rarity": 498
+  },
+  {
+    "name": "sara",
+    "_health": 267,
+    "attackPower": 58,
+    "defense": 136,
+    "resist": 30,
+    "level": 4,
+    "rarity": 483
+  },
+  {
+    "name": "sayu",
+    "_health": 60,
+    "attackPower": 51,
+    "defense": 148,
+    "resist": 68,
+    "level": 8,
+    "rarity": 200
+  },
+  {
+    "name": "sethos",
+    "_health": 32,
+    "attackPower": 164,
+    "defense": 96,
+    "resist": 172,
+    "level": 10,
+    "rarity": 279
+  },
+  {
+    "name": "shenhe",
+    "_health": 121,
+    "attackPower": 30,
+    "defense": 143,
+    "resist": 76,
+    "level": 2,
+    "rarity": 461
+  },
+  {
+    "name": "shikanoin-heizou",
+    "_health": 225,
+    "attackPower": 173,
+    "defense": 6,
+    "resist": 74,
+    "level": 8,
+    "rarity": 228
+  },
+  {
+    "name": "sigewinne",
+    "_health": 218,
+    "attackPower": 77,
+    "defense": 35,
+    "resist": 22,
+    "level": 2,
+    "rarity": 165
+  },
+  {
+    "name": "sucrose",
+    "_health": 136,
+    "attackPower": 147,
+    "defense": 66,
+    "resist": 217,
+    "level": 8,
+    "rarity": 96
+  },
+  {
+    "name": "tartaglia",
+    "_health": 299,
+    "attackPower": 125,
+    "defense": 147,
+    "resist": 37,
+    "level": 6,
+    "rarity": 328
+  },
+  {
+    "name": "thoma",
+    "_health": 198,
+    "attackPower": 157,
+    "defense": 149,
+    "resist": 140,
+    "level": 6,
+    "rarity": 125
+  },
+  {
+    "name": "tighnari",
+    "_health": 293,
+    "attackPower": 70,
+    "defense": 46,
+    "resist": 69,
+    "level": 4,
+    "rarity": 370
+  },
+  {
+    "name": "traveler-anemo",
+    "_health": 186,
+    "attackPower": 81,
+    "defense": 53,
+    "resist": 127,
+    "level": 4,
+    "rarity": 272
+  },
+  {
+    "name": "traveler-dendro",
+    "_health": 151,
+    "attackPower": 179,
+    "defense": 33,
+    "resist": 44,
+    "level": 8,
+    "rarity": 61
+  },
+  {
+    "name": "traveler-electro",
+    "_health": 88,
+    "attackPower": 147,
+    "defense": 116,
+    "resist": 164,
+    "level": 9,
+    "rarity": 337
+  },
+  {
+    "name": "traveler-geo",
+    "_health": 159,
+    "attackPower": 117,
+    "defense": 89,
+    "resist": 183,
+    "level": 9,
+    "rarity": 138
+  },
+  {
+    "name": "traveler-hydro",
+    "_health": 63,
+    "attackPower": 194,
+    "defense": 136,
+    "resist": 192,
+    "level": 5,
+    "rarity": 285
+  },
+  {
+    "name": "venti",
+    "_health": 284,
+    "attackPower": 31,
+    "defense": 2,
+    "resist": 148,
+    "level": 6,
+    "rarity": 309
+  },
+  {
+    "name": "wanderer",
+    "_health": 175,
+    "attackPower": 3,
+    "defense": 69,
+    "resist": 57,
+    "level": 1,
+    "rarity": 291
+  },
+  {
+    "name": "wriothesley",
+    "_health": 295,
+    "attackPower": 145,
+    "defense": 97,
+    "resist": 190,
+    "level": 9,
+    "rarity": 286
+  },
+  {
+    "name": "xiangling",
+    "_health": 19,
+    "attackPower": 124,
+    "defense": 33,
+    "resist": 81,
+    "level": 10,
+    "rarity": 375
+  },
+  {
+    "name": "xianyun",
+    "_health": 137,
+    "attackPower": 27,
+    "defense": 2,
+    "resist": 80,
+    "level": 3,
+    "rarity": 104
+  },
+  {
+    "name": "xiao",
+    "_health": 278,
+    "attackPower": 200,
+    "defense": 93,
+    "resist": 154,
+    "level": 10,
+    "rarity": 78
+  },
+  {
+    "name": "xingqiu",
+    "_health": 262,
+    "attackPower": 171,
+    "defense": 83,
+    "resist": 147,
+    "level": 10,
+    "rarity": 75
+  },
+  {
+    "name": "xinyan",
+    "_health": 24,
+    "attackPower": 68,
+    "defense": 1,
+    "resist": 68,
+    "level": 7,
+    "rarity": 188
+  },
+  {
+    "name": "yae-miko",
+    "_health": 149,
+    "attackPower": 19,
+    "defense": 95,
+    "resist": 194,
+    "level": 10,
+    "rarity": 8
+  },
+  {
+    "name": "yanfei",
+    "_health": 22,
+    "attackPower": 21,
+    "defense": 76,
+    "resist": 211,
+    "level": 7,
+    "rarity": 456
+  },
+  {
+    "name": "yaoyao",
+    "_health": 120,
+    "attackPower": 169,
+    "defense": 126,
+    "resist": 214,
+    "level": 9,
+    "rarity": 380
+  },
+  {
+    "name": "yelan",
+    "_health": 178,
+    "attackPower": 179,
+    "defense": 90,
+    "resist": 78,
+    "level": 7,
+    "rarity": 296
+  },
+  {
+    "name": "yoimiya",
+    "_health": 9,
+    "attackPower": 181,
+    "defense": 85,
+    "resist": 56,
+    "level": 9,
+    "rarity": 55
+  },
+  {
+    "name": "yun-jin",
+    "_health": 159,
+    "attackPower": 80,
+    "defense": 15,
+    "resist": 38,
+    "level": 3,
+    "rarity": 486
+  },
+  {
+    "name": "zhongli",
+    "_health": 5,
+    "attackPower": 187,
+    "defense": 58,
+    "resist": 217,
+    "level": 9,
+    "rarity": 155
+  }
+]

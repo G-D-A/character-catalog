@@ -1,5 +1,3 @@
-# Character Catalog - cli - ui
-
 # Character Catalog - CLI & UI
 
 ## How to Start 
